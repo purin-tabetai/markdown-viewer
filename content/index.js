@@ -330,6 +330,7 @@ var mathjax = `
         'AMSsymbols.js',
         'noErrors.js',
         'noUndefined.js',
+        'http://sonoisa.github.io/xyjax_ext/xypic.js',
       ]
     },
     tex2jax: {
